@@ -1,7 +1,7 @@
-🔰MicroServicio de Tiendas
+🔰 # MicroServicio de Tiendas
 
 - Metodos:
 
-# Actualizar Horario
+Actualizar Horario
 
 - POST - GET - PATCH
